@@ -1,6 +1,8 @@
 name: Honeycomb Launcher
-author: Unknown
+author: SyndicateApps
 description: Honeycomb themed launcher.
+fullDescription: |-
+  Honeycomb Launcher, also known as HCL, is a home replacement that allows any Android 2.1+ device to have a taste of Google’s update, Android 3.2. Honeycomb Launcher clones the UI features of this update as best as possible, while still allowing older devices to run it. Much of what you see in the official update, you will find in the launcher. Such as menus, icons, and wallpapers. 
 icon: http://konbini.lol/resources/mobi.TeamSyndicate.HCL/icon.png
 category: personalization
 versions:
