@@ -1,0 +1,44 @@
+name: Retry
+package: com.rovio.retry
+author: Rovio Entertainment
+description: Get ready to RETRY!
+fullDescription: |-
+  RETRY puts you in control of a loop-the-looping, 16-bit airplane. Master the one-touch controls and navigate your way through treacherous obstacles with hair-raising stunts. It won’t be easy so get ready to RETRY!
+  Pocket Gamer UK, Gold Award Winner!
+  “Unforgiving, relentless, soul-crushing, precise, gorgeous, addictive, fantastic - RETRY is all these things” - Peter Willington, Pocket Gamer UK
+
+  “Retry earns its place on the App Store’s must-play list.” - Chris Holt, Mac World
+
+  “Brutally challenging and well worth playing.” - Carter Dotson, Gamezebo
+
+  “The right balance of intensely frustrating and “I can’t put it down!” addiction” - Rob Thomas, 148Apps
+
+  8/10 - GSMArena.com
+  90/100 - PocketGamer
+  4.5/5 - Modojo
+
+  -----
+  RETRO 16-BIT GRAPHICS!
+  SLICK SYNTHESIZER SOUNDTRACK!
+  FLY HIGHER WITH MODIFICATIONS!
+  DAILY CHALLENGES!
+  UNLOCK NEW WORLDS!
+  FLY. CRASH. REPEAT.
+  -----
+
+  *Note:
+  RETRY is completely free to play, but there are optional in-app purchases available.
+
+  Terms of Use: www.rovio.com/eula
+  Privacy Policy: www.rovio.com/privacy
+
+  This game may include:
+  - Direct links to social networking websites that are intended for an audience over the age of 13.
+  - Direct links to the internet that can take players away from the game with the potential to browse any web page.
+  - Advertising of Rovio products and also products from select partners.
+  - The option to make in-app purchases. The bill payer should always be consulted beforehand..
+
+category: arcade
+icon: "http://konbini.lol/resources/com.rovio.retry/icon.png"
+versions:
+  - "http://konbini.lol/resources/com.rovio.retry/versions/1.5.0-10_armeabi-v7a%2Cx86.apk"

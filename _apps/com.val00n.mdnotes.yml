@@ -1,0 +1,20 @@
+name: MDNotes
+author: val00n
+description: A simple note-taking app for Android 1.5+ with Markdown support.
+fullDescription: Text can be rendered through regular TextView and WebView. Now your old device can be a convenient notepad!
+category: productivity
+featured: true
+
+icon: "http://apk.pyt.pp.ua/resources/com.val00n.mdnotes/icon.png"
+
+versions:
+  # automically pulled from the URL first time, then skipped as long as metadata is available and not changed
+  - "http://apk.pyt.pp.ua/resources/com.val00n.mdnotes/versions/1.0.0.apk"
+
+screenshots:
+  - "http://apk.pyt.pp.ua/resources/com.val00n.mdnotes/screenshots/1.png"
+  - "http://apk.pyt.pp.ua/resources/com.val00n.mdnotes/screenshots/2.png"
+  - "http://apk.pyt.pp.ua/resources/com.val00n.mdnotes/screenshots/3.png"
+  - "http://apk.pyt.pp.ua/resources/com.val00n.mdnotes/screenshots/4.png"
+  - "http://apk.pyt.pp.ua/resources/com.val00n.mdnotes/screenshots/5.png"
+  - "http://apk.pyt.pp.ua/resources/com.val00n.mdnotes/screenshots/6.png"

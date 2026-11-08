@@ -1,0 +1,11 @@
+name: notPipe
+package: io.github.gohoski.notpipe
+author: AppData 174
+description: A working YouTube client for Android 1.5+
+category: video_hosting
+featured: true
+fullDescription: |-
+  A working YouTube client for Android 1.5+ utilizing multiple backend APIs. Made with ❤ and longevity in mind. Instead of depending on a single instance that might suddenly fail, the app leverages multiple instances concurrently for maximum reliability.
+icon: "http://konbini.lol/resources/io.github.gohoski.notpipe/icon.png"
+versions:
+  - "http://konbini.lol/resources/io.github.gohoski.notpipe/versions/0.3.0.apk"

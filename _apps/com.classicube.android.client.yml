@@ -1,0 +1,12 @@
+name: ClassiCube
+description: A simple Minecraft-like game for Android.
+author: ClassiCube Team
+category: sandbox
+package: com.classicube.android.client
+fullDescription: |-
+  ClassiCube is a custom Minecraft Classic compatible client written in C from scratch.
+  It aims to replicate the 2009 Minecraft Classic client while offering optional enhancements to improve gameplay. ClassiCube can run on many systems, including desktop, web, mobile, and even some consoles.
+
+icon: http://konbini.lol/resources/com.classicube.android.client/icon.png
+versions:
+  - http://konbini.lol/resources/com.classicube.android.client/versions/1.3.7.apk

@@ -1,0 +1,28 @@
+name: Talking Ginger
+package: com.outfit7.talkinggingerfree
+author: Outfit7 Limited
+description: Talking Ginger is a fun and interactive virtual pet game for Android.
+category: casual
+fullDescription: |-
+  Say hello to a world of fun with Talking Ginger, the perfect playtime friend!
+  
+  Ginger loves to play fun games with friends!
+  Brush your friend's teeth, play with the bubbles and have fun popping them to unlock jigsaw pieces.
+  Your friend needs you to help complete all of his funny jigsaw puzzles.
+  
+  Interact with Ginger!
+  You can pet, tickle and talk to your funny friend.
+  Turn on your microphone and say hello to Ginger.
+  This cat loves to chat, he'll repeat anything you say back to you in his own voice for fun!
+  Take care of your friend before bed and look after his needs to unlock new puzzles!
+  
+  Make fun memories and enjoy classic tamagotchi features:
+   - Play with your tamagotchi friend to hear his cute laugh
+   - Say hello and the cat will talk back to you!
+   - Shower him, brush his teeth and take care of his fur
+   - Pop toothpaste bubbles, roll down the toilet paper and play the jigsaw puzzle game
+   - Collect jigsaw puzzles from your friend's funny dreams.
+
+icon: http://konbini.lol/resources/com.outfit7.talkinggingerfree/icon.png
+versions:
+  - http://konbini.lol/resources/com.outfit7.talkinggingerfree/versions/1.1.apk

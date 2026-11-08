@@ -1,0 +1,10 @@
+name: Barcode Scanner
+package: com.google.zxing.client.android
+author: ZXing Project
+description: Barcode scanner
+category: productivity
+
+icon: "http://konbini.lol/resources/com.google.zxing.client.android/icon.png"
+versions:
+  - "http://konbini.lol/resources/com.google.zxing.client.android/versions/3.31.apk"
+      

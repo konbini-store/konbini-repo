@@ -1,0 +1,28 @@
+name: Subway Surfers
+author: Kiloo
+description: Run for your life!
+category: arcade
+featured: true
+package: com.kiloo.subwaysurf
+fullDescription: |-
+  DASH as fast as you can!
+  DODGE the oncoming trains!
+
+  Help Jake, Tricky & Fresh escape from the grumpy Guard and his dog.
+
+  ★ Grind trains with your cool crew!
+  ★ Colorful and vivid HD graphics!
+  ★ Hoverboard Surfing!
+  ★ Paint powered jetpack!
+  ★ Lightning fast swipe acrobatics!
+  ★ Challenge and help your friends!
+
+  Join the most daring chase!
+
+  A Universal App with HD optimized graphics.
+
+  Originally co-developed by SYBO and Kiloo.
+icon: http://konbini.lol/resources/com.kiloo.subwaysurf/icon.png
+versions:
+  - http://konbini.lol/resources/com.kiloo.subwaysurf/versions/1.0.3-7_armeabi-v7a.apk
+  - http://konbini.lol/resources/com.kiloo.subwaysurf/versions/1.17.0-38_armeabi%2Carmeabi-v7a.apk

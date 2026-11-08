@@ -1,0 +1,60 @@
+name: sDraw
+author: Fsoft Production
+description: A simple drawing app for Android 2.2+.
+category: photo
+package: com.fsoft.FP_sDraw
+fullDescription: |-
+  sDraw is a tiny and fast drawing, painting and image editing app for sketching, pixel art, photo markup and quick edits. Supports stylus input, layers, blur, shapes, text and more - works offline without ads or clutter.
+
+  ✅ Designed for people who need a fast and simple tool that opens instantly and stays out of the way.
+
+  Perfect for:
+  🎭 Creating memes or adding text to photos.
+  🧠 Sketching diagrams, notes and quick ideas.
+  🖼️ Marking or highlighting images.
+  🎨 Drawing pixel art, concepts and simple illustrations.
+  ⚡ Making quick edits without opening heavy editors.
+
+  Why sDraw is worth having:
+  📦 Less than 1 MB.
+  ⚡ Starts instantly.
+  🛑 No ads or distractions.
+  📱 Works even on very old phones.
+  ✍️ Stylus support: sPen, Active Pen and more.
+  🧩 Flexible customizable UI.
+  🎨 Quick color shortcuts.
+  🛟 Automatic backup keeps drawings safe.
+  🔊 Volume buttons can trigger quick actions.
+  🚫 Doesn't run in the background or waste resources.
+
+  Drawing tools:
+  🪄 Layers.
+  🖼️ Insert from gallery.
+  🖍 Brush and eraser.
+  🌬 Airbrush.
+  🌫 Blur.
+  🌀 Liquify.
+  🏺 Fill and lasso fill.
+  🅰️ Text.
+  ✂️ Selection tools.
+  🔳 Shapes and arrows.
+  📏 Ruler.
+  🎨 Eyedropper.
+  🧩 Mosaic.
+  🖱 Precision brush.
+  🎞 Speedpaint recording.
+  🎨 Pixel art support.
+
+  The free version is fully functional with no essential features locked.
+
+  Pro version adds a few extras:
+  💛 Support the developer.
+  🖼️ Option to remove the “sDraw” label from saved images.
+  🚫 Removes menu reminders about Pro.
+  ⚡️ Full compatibility between free and Pro projects.
+
+  🍞 Tiny, fast and always ready when you need it 😊
+
+icon: "http://konbini.lol/resources/com.fsoft.FP_sDraw/icon.png"
+versions:
+  - "http://konbini.lol/resources/com.fsoft.FP_sDraw/versions/9.1.apk"

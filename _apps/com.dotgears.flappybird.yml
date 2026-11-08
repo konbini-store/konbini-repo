@@ -1,0 +1,25 @@
+name: Flappy Bird
+author: .GEARS
+description: Flap your wings to fly...
+category: arcade
+featured: true
+fullDescription: |-
+  [How to play]
+  > Tap to flap your wings to fly.
+  > Avoid pipes.
+  > Try to get 4 medals: Bronze, Silver, Gold (hard), Platinum (very hard)
+
+icon: "http://konbini.lol/resources/com.dotgears.flappybird/icon.png"
+
+versions:
+  - "http://konbini.lol/resources/com.dotgears.flappybird/versions/1.0.apk"
+  - "http://konbini.lol/resources/com.dotgears.flappybird/versions/1.1.apk"
+  - "http://konbini.lol/resources/com.dotgears.flappybird/versions/1.2.apk"
+  - "http://konbini.lol/resources/com.dotgears.flappybird/versions/1.3.apk"
+
+screenshots:
+  - "http://konbini.lol/resources/com.dotgears.flappybird/screenshots/fb1.jpg"
+  - "http://konbini.lol/resources/com.dotgears.flappybird/screenshots/fb2.jpg"
+  - "http://konbini.lol/resources/com.dotgears.flappybird/screenshots/fb3.jpg"
+  - "http://konbini.lol/resources/com.dotgears.flappybird/screenshots/fb4.jpg"
+  - "http://konbini.lol/resources/com.dotgears.flappybird/screenshots/fb5.jpg"

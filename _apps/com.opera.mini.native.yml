@@ -1,0 +1,13 @@
+name: Opera Mini - fast web browser
+package: com.opera.mini.native
+author: Opera Software
+description: The fastest web browser for Android.
+category: browsers
+fullDescription: |-
+  Experience fast, efficient, and data-optimized mobile browsing with Opera Mini.
+  Engineered specifically to minimize bandwidth consumption and accelerate page loading times, it utilizes advanced server-side compression to deliver seamless web access even on slow, congested, or metered networks.
+  Featuring a built-in ad blocker, private incognito browsing, a smart download manager, customizable news and sports feeds, and real-time data-saving statistics, it offers a lightweight and streamlined portal for everyday web exploration.
+
+icon: "http://konbini.lol/resources/com.opera.mini.native/icon.png"
+versions:
+  - "http://konbini.lol/resources/com.opera.mini.native/versions/20.0.2254.110284.apk"

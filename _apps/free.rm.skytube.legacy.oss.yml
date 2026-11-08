@@ -1,0 +1,29 @@
+name: SkyTube Legacy
+author: SkyTube Team
+category: video_hosting
+fullDescription: |-
+  SkyTube is a YouTube player that allows you to:
+  • play YouTube videos
+  • download videos
+  • browse YouTube channels
+  • search videos, music and channels
+  • watch channels' playlists
+  • view video comments
+  • video swipe controls (volume, brightness, comments and description)
+  • bookmark videos
+  • import subscriptions from YouTube
+  • channel subscription with non-intrusive notifications
+  • subscriptions feed
+  • view and download video thumbnails
+  • explore Trending and Most Popular videos
+
+  In addition, SkyTube is equipped with a robust blocking attribute that allows you to avoid unwanted videos, with capabilities such as channel blacklisting/whitelisting, filtering, exclusions for low views and high dislikes, etc.
+  All of this at the tips of your fingers!
+  More features will be added in the near future.
+
+icon: free.rm.skytube.legacy.oss
+versions:
+  - url: http://konbini.lol/resources/free.rm.skytube.legacy.oss/versions/2.999-extra.apk
+    name: 2.999-extra
+  - url: http://konbini.lol/resources/free.rm.skytube.legacy.oss/versions/2.999-vanilla.apk
+    name: 2.999-vanilla

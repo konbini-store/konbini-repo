@@ -1,0 +1,8 @@
+name: ADW Launcher
+author: ADW Team
+description: A launcher for Android 1.6 and up.
+fullDescription: ADW Launcher free is a customizable home replacement for Android. It allows you to completely customize your home screen with themes, icons, shortcuts and widgets. Features include multiple home screens, dock bar, icon scaling, gestures, and theme support. Fast, lightweight and flexible launcher for older and newer Android devices.
+icon: http://konbini.lol/resources/org.adw.launcher.one/icon.png
+category: personalization
+versions:
+  - http://konbini.lol/resources/org.adw.launcher.one/versions/1.3.4.0.apk

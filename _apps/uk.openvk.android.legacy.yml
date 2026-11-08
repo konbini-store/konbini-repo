@@ -1,0 +1,11 @@
+name: OpenVK Legacy
+author: Dmitry Tretyakov (Tinelix)
+description: OpenVK Legacy mobile client for Android >2.1.
+fullDescription: |-
+  OpenVK Legacy is a mobile client for retro devices running Android 2.1 Eclair and higher.
+  Powered by OpenVK API.
+category: sns
+
+icon: http://konbini.lol/resources/uk.openvk.android.legacy/icon.png
+versions:
+  - http://konbini.lol/resources/uk.openvk.android.legacy/versions/1.1.219.apk

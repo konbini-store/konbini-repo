@@ -1,0 +1,9 @@
+name: Launcher<3
+author: Jason Kung
+description: Launcher<3
+category: personalization
+package: com.jasonkung.launcher3
+fullDescription: Launcher<3
+icon: http://konbini.lol/resources/com.jasonkung.launcher3/icon.png
+versions:
+  - http://konbini.lol/resources/com.jasonkung.launcher3/versions/2.2.apk

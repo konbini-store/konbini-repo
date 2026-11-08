@@ -1,0 +1,11 @@
+name: Opera Browser Classic
+package: com.opera.browser.classic
+author: Opera Software
+description: The classic Opera browser for Android.
+category: browsers
+fullDescription: |-
+  Opera Classic is an older-generation mobile web browser version built on Opera's classic Presto layout engine.
+
+icon: "http://konbini.lol/resources/com.opera.browser.classic/icon.png"
+versions:
+  - "http://konbini.lol/resources/com.opera.browser.classic/versions/12.1.9.apk"

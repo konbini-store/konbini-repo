@@ -1,0 +1,14 @@
+name: Angry Birds
+package: com.rovio.angrybirds
+author: Rovio Entertainment
+description: Use the unique powers of the Angry Birds to destroy the greedy pigs' fortresses!
+category: arcade
+fullDescription: |-
+  The survival of the Angry Birds is at stake.
+  Dish out revenge on the greedy pigs who stole their eggs.
+  Use the unique powers of each bird to destroy the pigs fortresses.
+  Angry Birds features challenging physics-based gameplay and hours of replay value.
+  Each of the over 300 levels requires logic, skill, and force to solve.
+icon: "http://konbini.lol/resources/com.rovio.angrybirds/icon.png"
+versions:
+  - "http://konbini.lol/resources/com.rovio.angrybirds/versions/2.3.0.apk"

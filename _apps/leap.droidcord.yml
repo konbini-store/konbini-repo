@@ -1,0 +1,34 @@
+name: Droidcord
+author: leap0x7b
+description: A Discord client for old Android <4.x devices.
+category: messaging
+package: leap.droidcord
+fullDescription: |-
+  Uses proxy servers for the HTTP and gateway connection. Currently work-in-progress.
+
+  === Status ===
+  Working:
+  • Logging in
+  • Server list
+  • Channel list
+  • Direct messages and group DMs
+  • Message reading
+  • Message sending
+  • Gateway/live message updates
+  • Attachment viewing
+
+  Not implemented
+  • Message editing
+  • Message deleting
+  • Replying to messages
+  • Reading older messages
+  • Attachment sending
+  • Unread message indicators
+  • Jumping to messages (e.g. replies)
+  • Ping indicators
+  • Reactions and emojis
+  • Settings
+
+icon: http://konbini.lol/resources/leap.droidcord/icon.png
+versions:
+  - http://konbini.lol/resources/leap.droidcord/versions/unversioned.apk

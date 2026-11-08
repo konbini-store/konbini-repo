@@ -1,0 +1,10 @@
+name: AndroHub
+description: A GitHub client for Android 1.5+.
+author: Luiz Gustavo
+category: sns
+fullDescription: |-
+  AndroHub is a GitHub client for Android 1.5+.
+
+icon: null
+versions:
+  - "http://konbini.lol/resources/com.androhub/versions/1.0.apk"

@@ -1,0 +1,9 @@
+name: AndSMB
+author: Lysesoft
+description: A full-featured SMB/CIFS file manager for Android
+category: cloud
+fullDescription: SMB (Samba/CIFS) client for Android devices
+
+icon: http://konbini.lol/resources/lysesoft.andsmb/icon.png
+versions:
+  - http://konbini.lol/resources/lysesoft.andsmb/versions/1.0.apk

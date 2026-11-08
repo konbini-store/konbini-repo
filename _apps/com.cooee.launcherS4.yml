@@ -1,0 +1,12 @@
+name: Note 3 Launcher
+package: com.cooee.launcherS4
+author: Cooee Labs
+description: note 3 touchwiz launcher
+category: personalization
+fullDescription: |-
+  note 3 touchwiz launcher
+
+icon: "http://konbini.lol/resources/com.cooee.launcherS4/icon.png"
+versions:
+  - "http://konbini.lol/resources/com.cooee.launcherS4/versions/1.0.apk"
+

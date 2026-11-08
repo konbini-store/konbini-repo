@@ -1,0 +1,31 @@
+name: Temple Run
+author: Imangi Studios
+description: The Original Classic Endless Running Adventure!
+category: arcade
+fullDescription: |-
+  Experience the thrill and challenge of Temple Run – the classic global endless runner game that redefined mobile gaming!
+  Steal the cursed idol and escape from the relentless Demon Monkeys in a heart-pounding adventure through ancient temples, jungle ruins, and precarious cliff edges.
+  Outrun danger in the ultimate maze-running, jungle-escaping, temple adventure!
+  - Run through the jungle as you swipe to turn, jump, dash, parkour, and slide past deadly obstacles and traps
+  - Race through temples, bridges, and treacherous paths
+  - Collect coins, unlock diverse heroes, and boost your power-ups to reach super sonic speeds through the jungle
+  - Test your reflexes in a fast and frenzied arcade action experience
+  - Challenge friends & climb the leaderboards online
+  - No WiFi game, no internet needed: Enjoy endless fun offline without an internet connection. Temple Run is perfect game to play on the go.
+
+  Accolades:
+  Temple Run is that heart-pounding action movie moment – but non-stop! – SlideToPlay
+  One of the most thrilling and fun running games ever! – TheAppera
+  A fast and frenzied experience. – IGN
+  Very addicting… a truly different running game! – Appolicious
+
+  Join over 500 MILLION players worldwide in this legendary treasure hunting running game and escape the jungle with the idol!
+
+  Download now and challenge yourself to see how far you can run from the demon monkey!
+
+icon: "http://konbini.lol/resources/com.imangi.templerun/icon.png"
+versions:
+  - http://konbini.lol/resources/com.imangi.templerun/versions/1.0.8-11_minAPI7.apk
+  - http://konbini.lol/resources/com.imangi.templerun/versions/1.16.0-48_minAPI16.apk
+  - http://konbini.lol/resources/com.imangi.templerun/versions/1.25.1-71_minAPI19.apk
+  - http://konbini.lol/resources/com.imangi.templerun/versions/1.6.1-12_minAPI9.apk

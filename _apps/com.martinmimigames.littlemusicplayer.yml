@@ -1,0 +1,25 @@
+name: Little Music Player
+package: com.martinmimigames.littlemusicplayer
+author: MGGames
+description: A mini, simple, yet compatible notification-based audio player.
+category: music
+fullDescription: |-
+  Plays audios and videos, like how you expected to.
+  How small? Currently less than 0.5 MB.
+  Designed in hope for compatibility with different android versions.
+  Open-sourced and publicly-viewable code for anyone worrying about being locked in or privacy invasion.
+  Supports Android 1.0+
+  For Android 13+, notification permission needs to be granted to work properly.
+  Previously known as simple music player.
+
+  We also have other branches, for people with different needs.
+  - Tiny Music Player
+  For the smallest apk, but with the least functionality.
+
+  Source code available on GitHub. 
+  Newest version: v1.3 (Updated on 04/02/2023)
+
+icon: "http://konbini.lol/resources/com.martinmimigames.littlemusicplayer/icon.png"
+versions:
+  - "http://konbini.lol/resources/com.martinmimigames.littlemusicplayer/versions/2.13.apk"
+      

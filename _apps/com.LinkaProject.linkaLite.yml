@@ -1,0 +1,26 @@
+name: Linka Lite
+package: com.LinkaProject.linkaLite
+author: Luiz Gustavo
+description: An open-source social network focused on decentralization
+category: sns
+fullDescription: |-
+  Linka is an open-source decentralized social network focused on freedom, compatibility and customization.
+  Unlike traditional social platforms, Linka allows anyone to host their own server, create custom clients, modify algorithms and adapt the platform for different devices — from modern desktops to legacy hardware and lightweight systems.
+
+  === Features ===
+  • Decentralized servers
+  • Open-source backend
+  • Lightweight architecture
+  • Customizable algorithms
+  • External client support
+  • SDK for bots and integrations
+  • Legacy device compatibility
+  • Desktop client
+  • Android client (LinkaLite)
+  • Designed for low-resource hardware
+
+
+icon: "http://konbini.lol/resources/com.LinkaProject.linkaLite/icon.png"
+versions:
+  - "http://konbini.lol/resources/com.LinkaProject.linkaLite/versions/2.1.1.apk"
+      

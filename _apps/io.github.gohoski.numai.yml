@@ -1,0 +1,76 @@
+name: numAi
+author: AppData 174
+package: io.github.gohoski.numai
+category: ai
+description: A simple AI app for Android 1.0+
+fullDescription: |-
+  An AI app compatible with Android 1.0+ with support for deep thinking, image vision, and web search.
+  Access ChatGPT, DeepSeek, Gemini, Qwen, GLM, Kimi, and other LLMs in one simple app on your legacy device.
+
+  == Features ==
+  * Support of various APIs and models that support the OpenAI format (i.e. most LLM APIs)
+  * Thinking mode (switch between chat and thinking model)
+  * Vision (image attachments)
+  * Ability to change the system prompt
+  * Importing API key from file
+  * Markdown formatting support (including tables)
+  * Web search through Bing (Android 1.0+, recommended) and DuckDuckGo (Android 1.6+, requires Wolfius, may get limited)
+  * Web fetch (Android 1.6+, requires Wolfius)
+
+  == TODO ==
+  * File attachments
+
+  == Recommended models ==
+  VoidAI:
+  * Chat model: deepseek-v3.2 (or gemini-3.5-flash-lite/kimi-k3 for vision)
+  * Thinking model: deepseek-v4-flash (or gemini-3.6-flash/kimi-k3 for vision)
+  Ollama Cloud:
+  * gemma4:31b — supports chat, thinking and vision
+  OpenCode Zen:
+  * deepseek-v4-flash-free — supports chat and thinking only. For vision, please use another API.
+
+  == API key setup guide ==
+  All of the following APIs have free quotas—no payment is required.
+
+  VoidAI (Android 1.6+):
+  Warning: This API requires Wolfius to work correctly on Android <3.0.
+
+  On a modern browser, go to voidai.app/register and create an account.
+  After logging in, navigate to the API Keys section in your dashboard.
+  Click Generate New API Key.
+  Copy the key that appears and transfer it to your device.
+
+  Ollama Cloud:
+  This API is recommended to use on Android 1.0+, as it still supports TLS 1.0 w/o SNI.
+
+  On a modern browser, go to ollama.com and create an account.
+  After logging in, go to ollama.com/settings/keys.
+  Click Add API Key, then Generate API Key.
+  Copy the key and transfer it to your device. Instead of VoidAI, choose Ollama Cloud in the dropdown menu.
+  
+  OpenCode Zen (Android 1.6+):
+  Warning: This API requires Wolfius to work correctly on Android <4.4.
+
+  On a modern browser, go to opencode.ai/auth and create an account.
+  After logging in, navigate to the API Keys section in your dashboard.
+  Click Create API Key and enter any key name.
+  Copy the key that appears and transfer it to your device.
+
+  == License ==
+  The numAi project is licensed under the Do What The Fuck You Want To Public License, Version 2. See GitHub's page for details.
+  If you want, you may credit me in the README of your project.
+  HOWEVER, the NNJSON library is licensed under the MIT license. See GitHub repo's LICENSE-NNJSON for details.
+  The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.
+
+icon: http://konbini.lol/resources/io.github.gohoski.numai/icon.png
+versions:
+  - http://konbini.lol/resources/io.github.gohoski.numai/versions/1.0.1.apk
+screenshots:
+  - http://konbini.lol/resources/io.github.gohoski.numai/screenshots/scr1.png
+  - http://konbini.lol/resources/io.github.gohoski.numai/screenshots/scr2.png
+  - http://konbini.lol/resources/io.github.gohoski.numai/screenshots/scr3.png
+  - http://konbini.lol/resources/io.github.gohoski.numai/screenshots/scr4.png
+  - http://konbini.lol/resources/io.github.gohoski.numai/screenshots/scr5.png
+  - http://konbini.lol/resources/io.github.gohoski.numai/screenshots/scr6.png
+  - http://konbini.lol/resources/io.github.gohoski.numai/screenshots/scr7.png
+  - http://konbini.lol/resources/io.github.gohoski.numai/screenshots/scr8.png

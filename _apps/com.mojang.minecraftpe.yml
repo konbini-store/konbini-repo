@@ -1,0 +1,102 @@
+name: "Minecraft: Pocket Edition"
+author: Mojang
+description: Imagine it, build it.
+category: adventure
+featured: true
+fullDescription: |-
+  Create worlds on the go with Minecraft - Pocket Edition
+  The new Minecraft - Pocket Edition allows you to build on the go. Use blocks to create masterpieces as you travel, hangout with friends, sit at the park, the possibilities are endless. Move beyond the limits of your computer and play Minecraft everywhere you go.
+
+  * Creative and Surival game modes
+  * Randomized worlds
+  * Build anything you can imagine
+  * Build with 36 different kinds of blocks
+  * Invite and play with friends to your world (local wireless network)
+  * Save multi-player worlds on your own phone
+
+  *Xperia PLAY optimized*
+
+  Note: Samsung Galaxy Tab users, please test the demo first! If it doesn't start, you will have to update your Android system software version.
+
+icon: "http://konbini.lol/resources/com.mojang.minecraftpe/icon.png"
+
+versions:
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.10.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.10.4.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.10.5.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.11.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.1.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.12.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.12.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.12.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.12.3.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.1.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.13.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.13.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.1.3.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.14.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.14.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.14.3.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.15.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.15.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.15.3.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.15.4.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.15.6.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.15.90.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.15.9.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.16.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.16.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.16.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.17.0.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.17.0.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.17.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.2.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.2.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.2.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.3.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.3.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.3.3.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.4.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.5.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.6.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.6.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.7.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.7.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.7.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.7.3.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.7.4.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.7.5.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.7.6.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.8.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.8.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.9.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.9.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/0.9.5.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.0.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.0.3.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.0.4.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.0.5.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.0.7.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.0.8.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.0.9.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.10.0.4.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.1.1.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.1.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.1.2.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.1.3.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.1.3.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.1.5.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.2.10.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.2.20.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.2.5.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.4.4.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.5.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.6.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.7.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.8.0.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.8.1.apk"
+ - "http://konbini.lol/resources/com.mojang.minecraftpe/versions/1.9.0.apk"
+
+screenshots:
+  - "http://konbini.lol/resources/com.mojang.minecraftpe/screenshots/1.jpg"
+  - "http://konbini.lol/resources/com.mojang.minecraftpe/screenshots/2.jpg"

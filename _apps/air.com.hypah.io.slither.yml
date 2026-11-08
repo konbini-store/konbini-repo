@@ -1,0 +1,13 @@
+name: slither.io
+package: air.com.hypah.io.slither
+author: Hypah.io
+description: Can you become the longest slither?
+category: arcade
+fullDescription: |-
+  Play against other people online! Can you become the longest slither?
+  If your head touches another player, you will explode and then it's game over. But if others run into YOU, then THEY will explode, and you can eat their remains!
+  In slither.io, you have a chance to win even if you're tiny. You can swerve in front of a much larger player to defeat them, no matter how big you are!
+  Download now and start slithering! Good luck!
+icon: http://konbini.lol/resources/air.com.hypah.io.slither/icon.png
+versions:
+  - http://konbini.lol/resources/air.com.hypah.io.slither/versions/1.6.2.apk
